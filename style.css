@@ -266,7 +266,7 @@ section .button button:hover{
    align-items: center;
  }
  .skills-details .text{
-   width: 50%;
+   width: 100%;
  }
  .skills-details p{
    color: #0E2431;
