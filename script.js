@@ -106,6 +106,7 @@ const config = {
   }
 };
 
+
 // Initialize the chart
 const experienceChart = new Chart(ctx, config);
 

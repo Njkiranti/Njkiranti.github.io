@@ -123,6 +123,9 @@ nav.sticky .menu-btn{
       background-attachment: scroll;
       background-size: contain;
   }
+  .timeline{
+    display: none;
+  }
 }.home .home-content{
   width: 90%;
   height: 100%;
